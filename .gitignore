@@ -1,0 +1,21 @@
+# Ignorar arquivos temporários e de ambiente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos de ambiente virtual
+.env
+.venv/
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dados grandes ou sensíveis (se houver)
+*.csv
+*.xlsx

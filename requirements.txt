@@ -1,0 +1,7 @@
+
+## Dependências do projeto
+numpy
+scipy
+matplotlib
+statsmodels
+jupyter
